@@ -12,3 +12,5 @@ Youtube Video : https://youtu.be/OCz3_3Xf5fs
 Marketplace : https://www.unrealengine.com/marketplace/en-US/product/78921e8bb7294144970e4bed03dc4342
 
 Documentation : https://github.com/faxcorp/CleverObjectsDocumentation/wiki
+
+Demo Project : https://github.com/faxcorp/CleverObjectsDemoProject
