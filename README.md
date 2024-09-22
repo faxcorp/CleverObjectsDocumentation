@@ -3,7 +3,9 @@ Clever Objects is a versatile Unreal Engine plugin that enhances NPC and environ
 
 
 
-https://github.com/user-attachments/assets/ecbd9f91-2e24-4036-9e97-99d78f89d2d6
+https://github.com/user-attachments/assets/ebd90eba-3611-4a99-a636-8b227a8bdcec
+
+
 
 Youtube Video : https://youtu.be/OCz3_3Xf5fs
 
